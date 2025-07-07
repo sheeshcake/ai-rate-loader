@@ -1,5 +1,5 @@
 {
-  "name": "ai-data-mapper-backend",
+  "name": "ai-rate-loader-backend",
   "version": "1.0.0",
   "description": "Backend server for AI-powered data mapping application",
   "main": "server.js",
